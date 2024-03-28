@@ -1,5 +1,4 @@
 import customtkinter as ctk
-from PIL import Image, ImageTk
 from app import encrypt, decrypt
 
 ctk.set_appearance_mode("system")
